@@ -14,5 +14,9 @@ A static website to integrate Mailchimp.
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer
+
+## License
+
+MIT License
 
